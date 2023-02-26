@@ -1,1 +1,0 @@
-#### This package converts given text to lowercase.
