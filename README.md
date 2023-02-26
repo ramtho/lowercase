@@ -65,4 +65,7 @@
 2. Publish package to registry with public access
 
 
+    $>`cd src`
+    
+
     $>`npm publish --access public`
