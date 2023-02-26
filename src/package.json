@@ -1,5 +1,5 @@
 {
-  "name": "@ramtho-org/lowercase",
+  "name": "@ramtho/lowercase",
   "version": "1.0.0",
   "description": "Converts text to lowercase",
   "main": "index.js",
